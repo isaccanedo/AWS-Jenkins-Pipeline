@@ -17,7 +17,7 @@ O pipeline em funcionamento cria um serviço de compilação totalmente gerencia
 
 Criando recursos para construir a infraestrutura, incluindo o servidor Jenkins, o projeto CodeBuild e o aplicativo CodeDeploy.
 
-Accessing and unlocking the Jenkins server.
+Acessando e desbloqueando o servidor Jenkins.
 
 Creating a project and configuring the CodeDeploy Jenkins plugin.
 
