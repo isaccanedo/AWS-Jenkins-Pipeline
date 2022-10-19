@@ -24,7 +24,7 @@ Criando um projeto e configurando o plugin CodeDeploy Jenkins.
 Testando todo o pipeline de CI/CD.
 
 ### Crie os recursos
-how to launch an AWS CloudFormation template, a tool that creates the following resources:
+como iniciar um modelo do AWS CloudFormation, uma ferramenta que cria os seguintes recursos:
 
 Amazon S3 bucket—Stores the GitHub repository files and the CodeBuild artifact application file that CodeDeploy uses.
 IAM S3 bucket policy—Allows the Jenkins server access to the S3 bucket.
