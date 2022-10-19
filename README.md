@@ -33,7 +33,7 @@ de artefato do CodeBuild que o CodeDeploy usa;
 - JenkinsRole — uma função do IAM e um perfil de instância para a instância do Amazon EC2 para 
 uso como um servidor Jenkins. Essa função permite que o Jenkins na instância do EC2 acesse o bucket do S3 
 para gravar arquivos e acessar para criar implantações do CodeDeploy;
-CodeDeploy application and CodeDeploy deployment group.
+- Aplicativo CodeDeploy e grupo de implantação CodeDeploy;
 CodeDeploy service role—An IAM role to enable CodeDeploy to read the tags applied to the instances or the EC2 Auto Scaling group names associated with the instances.
 CodeDeployRole—An IAM role and instance profile for the EC2 instances of CodeDeploy. This role has permissions to write files to the S3 bucket created by this template and to create deployments in CodeDeploy.
 CodeBuildRole—An IAM role to be used by CodeBuild to access the S3 bucket and create the build projects.
