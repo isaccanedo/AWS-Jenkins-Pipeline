@@ -27,9 +27,12 @@ Testando todo o pipeline de CI/CD.
 como iniciar um modelo do AWS CloudFormation, uma ferramenta que cria os seguintes recursos:
 
 ```
-- Bucket do Amazon S3 — armazena os arquivos do repositório do GitHub e o arquivo do aplicativo de artefato do CodeBuild que o CodeDeploy usa;
+- Bucket do Amazon S3 — armazena os arquivos do repositório do GitHub e o arquivo do aplicativo 
+de artefato do CodeBuild que o CodeDeploy usa;
 - Política de bucket do IAM S3 — permite que o servidor Jenkins acesse o bucket do S3;
-JenkinsRole—An IAM role and instance profile for the Amazon EC2 instance for use as a Jenkins server. This role allows Jenkins on the EC2 instance to access the S3 bucket to write files and access to create CodeDeploy deployments.
+- JenkinsRole — uma função do IAM e um perfil de instância para a instância do Amazon EC2 para 
+uso como um servidor Jenkins. Essa função permite que o Jenkins na instância do EC2 acesse o bucket do S3 
+para gravar arquivos e acessar para criar implantações do CodeDeploy;
 CodeDeploy application and CodeDeploy deployment group.
 CodeDeploy service role—An IAM role to enable CodeDeploy to read the tags applied to the instances or the EC2 Auto Scaling group names associated with the instances.
 CodeDeployRole—An IAM role and instance profile for the EC2 instances of CodeDeploy. This role has permissions to write files to the S3 bucket created by this template and to create deployments in CodeDeploy.
