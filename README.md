@@ -1,8 +1,6 @@
 # AWS-Jenkins-Pipeline
 
-## Configurando um pipeline de CI/CD integrando o Jenkins com AWS CodeBuild e AWS CodeDeploy
- 
- 
+## Configurando um pipeline de CI/CD integrando o Jenkins com AWS CodeBuild e AWS CodeDeploy 
  
 O servidor de automação de código aberto Jenkins é usado para implantar artefatos do AWS CodeBuild com o AWS CodeDeploy, criando um pipeline de CI/CD funcional.
 Quando implementado corretamente, o pipeline de CI/CD é acionado por alterações de código enviadas ao repositório do GitHub, alimentadas automaticamente no CodeBuild e, em seguida, a saída é implantada no CodeDeploy.
@@ -17,7 +15,7 @@ O pipeline em funcionamento cria um serviço de compilação totalmente gerencia
 
 ### Passo à passo 
 
-Creating resources to build the infrastructure, including the Jenkins server, CodeBuild project, and CodeDeploy application.
+Criando recursos para construir a infraestrutura, incluindo o servidor Jenkins, o projeto CodeBuild e o aplicativo CodeDeploy.
 
 Accessing and unlocking the Jenkins server.
 
