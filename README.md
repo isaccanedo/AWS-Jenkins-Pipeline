@@ -21,7 +21,7 @@ Acessando e desbloqueando o servidor Jenkins.
 
 Criando um projeto e configurando o plugin CodeDeploy Jenkins.
 
-Testing the whole CI/CD pipeline.
+Testando todo o pipeline de CI/CD.
 
 ### Create the resources
 how to launch an AWS CloudFormation template, a tool that creates the following resources:
