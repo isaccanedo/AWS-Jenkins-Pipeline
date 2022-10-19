@@ -39,7 +39,7 @@ instâncias ou os nomes de grupo do EC2 Auto Scaling associados às instâncias;
 - CodeDeployRole — uma função do IAM e um perfil de instância para as instâncias EC2 do CodeDeploy. Essa função tem 
 permissões para gravar arquivos no bucket do S3 criado por este modelo e para criar implantações no CodeDeploy;
 - CodeBuildRole — uma função do IAM a ser usada pelo CodeBuild para acessar o bucket do S3 e criar os projetos de compilação;
-Jenkins server—An EC2 instance running Jenkins.
+- Servidor Jenkins — Uma instância do EC2 executando o Jenkins;
 CodeBuild project—This is configured with the S3 bucket and S3 artifact.
 Auto Scaling group—Contains EC2 instances running Apache and the CodeDeploy agent fronted by an Elastic Load Balancer.
 Auto Scaling launch configurations—For use by the Auto Scaling group.
