@@ -19,7 +19,7 @@ Criando recursos para construir a infraestrutura, incluindo o servidor Jenkins, 
 
 Acessando e desbloqueando o servidor Jenkins.
 
-Creating a project and configuring the CodeDeploy Jenkins plugin.
+Criando um projeto e configurando o plugin CodeDeploy Jenkins.
 
 Testing the whole CI/CD pipeline.
 
