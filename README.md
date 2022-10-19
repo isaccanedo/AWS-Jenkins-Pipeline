@@ -36,7 +36,8 @@ para gravar arquivos e acessar para criar implantações do CodeDeploy;
 - Aplicativo CodeDeploy e grupo de implantação CodeDeploy;
 - Função de serviço do CodeDeploy — uma função do IAM para permitir que o CodeDeploy leia as tags aplicadas às 
 instâncias ou os nomes de grupo do EC2 Auto Scaling associados às instâncias;
-CodeDeployRole—An IAM role and instance profile for the EC2 instances of CodeDeploy. This role has permissions to write files to the S3 bucket created by this template and to create deployments in CodeDeploy.
+- CodeDeployRole — uma função do IAM e um perfil de instância para as instâncias EC2 do CodeDeploy. Essa função tem 
+permissões para gravar arquivos no bucket do S3 criado por este modelo e para criar implantações no CodeDeploy;
 CodeBuildRole—An IAM role to be used by CodeBuild to access the S3 bucket and create the build projects.
 Jenkins server—An EC2 instance running Jenkins.
 CodeBuild project—This is configured with the S3 bucket and S3 artifact.
