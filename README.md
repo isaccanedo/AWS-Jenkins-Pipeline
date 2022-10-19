@@ -8,7 +8,7 @@ O servidor de automação de código aberto Jenkins é usado para implantar arte
 Quando implementado corretamente, o pipeline de CI/CD é acionado por alterações de código enviadas ao repositório do GitHub, alimentadas automaticamente no CodeBuild e, em seguida, a saída é implantada no CodeDeploy.
   
  
-The functioning pipeline creates a fully managed build service that compiles your source code. It then produces code artifacts that can be used by CodeDeploy to deploy to your production environment automatically.
+O pipeline em funcionamento cria um serviço de compilação totalmente gerenciado que compila seu código-fonte. Em seguida, ele produz artefatos de código que podem ser usados pelo CodeDeploy para implantar em seu ambiente de produção automaticamente.
 
 
 ![image](https://user-images.githubusercontent.com/48589838/89983289-e5fc2900-dc94-11ea-9258-685375cad1dd.png)
