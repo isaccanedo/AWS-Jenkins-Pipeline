@@ -43,7 +43,7 @@ permissões para gravar arquivos no bucket do S3 criado por este modelo e para c
 - Projeto CodeBuild — é configurado com o bucket do S3 e o artefato do S3;
 - Grupo de Auto Scaling — contém instâncias do EC2 que executam o Apache e o agente do CodeDeploy com um Elastic Load Balancer;
 - Configurações de inicialização do Auto Scaling — Para uso pelo grupo do Auto Scaling;
-Security groups—For the Jenkins server, the load balancer, and the CodeDeploy EC2 instance
+- Grupos de segurança — para o servidor Jenkins, o balanceador de carga e a instância do CodeDeploy EC2.
 ```
 
 ![image](https://user-images.githubusercontent.com/48589838/89985330-87d14500-dc98-11ea-9964-c1211d0c8a03.png)
