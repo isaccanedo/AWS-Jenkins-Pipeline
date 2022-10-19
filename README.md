@@ -1,6 +1,6 @@
 # AWS-Jenkins-Pipeline
 
-## Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy
+## Configurando um pipeline de CI/CD integrando o Jenkins com AWS CodeBuild e AWS CodeDeploy
  
  
  
