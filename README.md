@@ -4,8 +4,8 @@
  
  
  
- Jenkins open-source automation server is used to deploy AWS CodeBuild artifacts with AWS CodeDeploy, creating a functioning CI/CD pipeline. 
- When properly implemented, the CI/CD pipeline is triggered by code changes pushed to your GitHub repo, automatically fed into CodeBuild, then the output is deployed on CodeDeploy.
+O servidor de automação de código aberto Jenkins é usado para implantar artefatos do AWS CodeBuild com o AWS CodeDeploy, criando um pipeline de CI/CD funcional.
+Quando implementado corretamente, o pipeline de CI/CD é acionado por alterações de código enviadas ao repositório do GitHub, alimentadas automaticamente no CodeBuild e, em seguida, a saída é implantada no CodeDeploy.
   
  
 The functioning pipeline creates a fully managed build service that compiles your source code. It then produces code artifacts that can be used by CodeDeploy to deploy to your production environment automatically.
