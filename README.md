@@ -15,7 +15,7 @@ O pipeline em funcionamento cria um serviço de compilação totalmente gerencia
 
 
 
-### Walkthrough 
+### Passo à passo 
 
 Creating resources to build the infrastructure, including the Jenkins server, CodeBuild project, and CodeDeploy application.
 
