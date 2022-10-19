@@ -42,7 +42,7 @@ permissões para gravar arquivos no bucket do S3 criado por este modelo e para c
 - Servidor Jenkins — Uma instância do EC2 executando o Jenkins;
 - Projeto CodeBuild — é configurado com o bucket do S3 e o artefato do S3;
 - Grupo de Auto Scaling — contém instâncias do EC2 que executam o Apache e o agente do CodeDeploy com um Elastic Load Balancer;
-Auto Scaling launch configurations—For use by the Auto Scaling group.
+- Configurações de inicialização do Auto Scaling — Para uso pelo grupo do Auto Scaling;
 Security groups—For the Jenkins server, the load balancer, and the CodeDeploy EC2 instance
 ```
 
