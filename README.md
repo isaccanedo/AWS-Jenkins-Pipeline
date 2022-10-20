@@ -55,7 +55,7 @@ permissões para gravar arquivos no bucket do S3 criado por este modelo e para c
 
 Copie o valor JenkinsServerDNSName da guia Saídas da pilha do CloudFormation e cole-o em seu navegador.
 
-To unlock the Jenkins server, SSH to the server using the IP address and key pair, following the instructions from Unlocking Jenkins.
+Para desbloquear o servidor Jenkins, faça SSH para o servidor usando o endereço IP e o par de chaves, seguindo as instruções de Desbloqueando o Jenkins.
 
 Use the root user to Cat the log file (/var/log/jenkins/jenkins.log) and copy the automatically generated alphanumeric password (between the two sets of asterisks). Then, use the password to unlock your Jenkins server, as shown in the following screenshots.
 
