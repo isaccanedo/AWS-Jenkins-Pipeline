@@ -53,7 +53,7 @@ permissões para gravar arquivos no bucket do S3 criado por este modelo e para c
 
 ### Acesse e desbloqueie seu servidor Jenkins
 
-Copy the JenkinsServerDNSName value from the Outputs tab of the CloudFormation stack, and paste it into your browser.
+Copie o valor JenkinsServerDNSName da guia Saídas da pilha do CloudFormation e cole-o em seu navegador.
 
 To unlock the Jenkins server, SSH to the server using the IP address and key pair, following the instructions from Unlocking Jenkins.
 
