@@ -51,7 +51,7 @@ permissões para gravar arquivos no bucket do S3 criado por este modelo e para c
 ![image](https://user-images.githubusercontent.com/48589838/89985319-83a52780-dc98-11ea-8442-3e8e7eb3e403.png)
 
 
-### Access and unlock your Jenkins server
+### Acesse e desbloqueie seu servidor Jenkins
 
 Copy the JenkinsServerDNSName value from the Outputs tab of the CloudFormation stack, and paste it into your browser.
 
