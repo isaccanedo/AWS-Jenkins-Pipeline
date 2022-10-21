@@ -122,6 +122,6 @@ Na página de saída do console do servidor Jenkins, verifique os eventos de com
 
 ![image](https://user-images.githubusercontent.com/48589838/89986227-dd5a2180-dc99-11ea-95a5-15938ac49df1.png)
 
-On completion, Jenkins should report that you have successfully deployed a web application. You can also use your ELBDNSName value to confirm that the deployed application is running successfully.
+Ao concluir, o Jenkins deve relatar que você implantou com êxito um aplicativo da Web. Você também pode usar seu valor ELBDNSName para confirmar se o aplicativo implementado está sendo executado com êxito.
 
 ![image](https://user-images.githubusercontent.com/48589838/89986033-9409d200-dc99-11ea-883c-37f6a469e02c.png)
