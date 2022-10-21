@@ -114,7 +114,7 @@ $ git add -A
 $ git commit -m 'Your first application'
 
 $ git push
-On the Jenkins server dashboard, wait for two minutes until the previously set project trigger starts working. After the trigger starts working, you should see a new build taking place.
+No painel do servidor Jenkins, aguarde dois minutos até que o gatilho do projeto definido anteriormente comece a funcionar. Depois que o gatilho começar a funcionar, você deverá ver uma nova compilação ocorrendo.
 
 ![image](https://user-images.githubusercontent.com/48589838/89986214-d92e0400-dc99-11ea-84cb-9ff3e830a1b8.png)
 
