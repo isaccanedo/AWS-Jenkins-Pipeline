@@ -97,7 +97,7 @@ A captura de tela a seguir mostra uma árvore do aplicativo contendo os arquivos
 
 ![image](https://user-images.githubusercontent.com/48589838/89986084-a71ca200-dc99-11ea-9021-097d82084171.png)
 
-In this example, the application files are the templates directory, test_app.py file, and web.py file.
+Neste exemplo, os arquivos do aplicativo são o diretório de modelos, o arquivo test_app.py e o arquivo web.py.
 
 The appspec.yml file is the main application specification file telling CodeDeploy how to deploy your application. Jenkins uses the AppSpec file to manage each deployment as a series of lifecycle event “hooks”, as defined in the file. For information about how to create a well-formed AppSpec file, see AWS CodeDeploy AppSpec File Reference.
 
