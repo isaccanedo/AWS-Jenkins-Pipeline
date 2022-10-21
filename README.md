@@ -93,7 +93,7 @@ Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) e c
 
 Para testar toda a solução, coloque um aplicativo em seu repositório GitHub.
 
-The following screenshot shows an application tree containing the application source files, including text and binary files, executables, and packages:
+A captura de tela a seguir mostra uma árvore do aplicativo contendo os arquivos de origem do aplicativo, incluindo arquivos de texto e binários, executáveis e pacotes:
 
 ![image](https://user-images.githubusercontent.com/48589838/89986084-a71ca200-dc99-11ea-9021-097d82084171.png)
 
