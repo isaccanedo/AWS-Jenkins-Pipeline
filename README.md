@@ -101,7 +101,7 @@ Neste exemplo, os arquivos do aplicativo são o diretório de modelos, o arquivo
 
 O arquivo appspec.yml é o principal arquivo de especificação do aplicativo que informa ao CodeDeploy como implantar seu aplicativo. Jenkins usa o arquivo AppSpec para gerenciar cada implantação como uma série de “hooks” de eventos de ciclo de vida, conforme definido no arquivo. Para obter informações sobre como criar um arquivo AppSpec bem formado, consulte AWS CodeDeploy AppSpec File Reference.
 
-The buildspec.yml file is a collection of build commands and related settings, in YAML format, that CodeBuild uses to run a build. You can include a build spec as part of the source code, or you can define a build spec when you create a build project. For more information, see How AWS CodeBuild Works.
+O arquivo buildspec.yml é uma coleção de comandos de compilação e configurações relacionadas, no formato YAML, que o CodeBuild usa para executar uma compilação. Você pode incluir uma especificação de compilação como parte do código-fonte ou pode definir uma especificação de compilação ao criar um projeto de compilação. Para obter mais informações, consulte Como o AWS CodeBuild funciona.
 
 The scripts folder contains the scripts that you would like to run during the CodeDeploy LifecycleHooks execution with respect to your application requirements. For more information, see Plan a Revision for AWS CodeDeploy.
 
