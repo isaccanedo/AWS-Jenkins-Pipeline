@@ -103,7 +103,7 @@ O arquivo appspec.yml é o principal arquivo de especificação do aplicativo qu
 
 O arquivo buildspec.yml é uma coleção de comandos de compilação e configurações relacionadas, no formato YAML, que o CodeBuild usa para executar uma compilação. Você pode incluir uma especificação de compilação como parte do código-fonte ou pode definir uma especificação de compilação ao criar um projeto de compilação. Para obter mais informações, consulte Como o AWS CodeBuild funciona.
 
-The scripts folder contains the scripts that you would like to run during the CodeDeploy LifecycleHooks execution with respect to your application requirements. For more information, see Plan a Revision for AWS CodeDeploy.
+A pasta de scripts contém os scripts que você gostaria de executar durante a execução do CodeDeploy LifecycleHooks em relação aos requisitos do aplicativo. Para obter mais informações, consulte Planejar uma revisão para AWS CodeDeploy.
 
 To test this solution, perform the following steps:
 
