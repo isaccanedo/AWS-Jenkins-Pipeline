@@ -107,7 +107,7 @@ A pasta de scripts contém os scripts que você gostaria de executar durante a e
 
 Para testar esta solução, execute as seguintes etapas:
 
-Unzip the application files and send them to your GitHub repository, run the following git commands from the path where you placed your sample application:
+Descompacte os arquivos do aplicativo e envie-os para o seu repositório GitHub, execute os seguintes comandos git no caminho onde você colocou seu aplicativo de exemplo:
 
 $ git add -A
 
