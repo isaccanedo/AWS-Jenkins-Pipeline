@@ -69,7 +69,7 @@ Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) e c
 
 
 
-### Create a project and configure the CodeDeploy Jenkins plugin
+### Crie um projeto e configure o plugin CodeDeploy Jenkins
 
 ![image](https://user-images.githubusercontent.com/48589838/89985612-fadabb80-dc98-11ea-84cf-c2add128ffc0.png)
 ![image](https://user-images.githubusercontent.com/48589838/89985621-ff06d900-dc98-11ea-9fee-f80963c8291f.png)
