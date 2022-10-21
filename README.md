@@ -57,7 +57,7 @@ Copie o valor JenkinsServerDNSName da guia Saídas da pilha do CloudFormation e 
 
 Para desbloquear o servidor Jenkins, faça SSH para o servidor usando o endereço IP e o par de chaves, seguindo as instruções de Desbloqueando o Jenkins.
 
-Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) and copy the automatically generated alphanumeric password (between the two sets of asterisks). Then, use the password to unlock your Jenkins server, as shown in the following screenshots.
+Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) e copie a senha alfanumérica gerada automaticamente (entre os dois conjuntos de asteriscos). Em seguida, use a senha para desbloquear seu servidor Jenkins, conforme mostrado nas capturas de tela a seguir.
 
 ![image](https://user-images.githubusercontent.com/48589838/89985442-ba7b3d80-dc98-11ea-9cb4-9014339ba6e3.png)
 
