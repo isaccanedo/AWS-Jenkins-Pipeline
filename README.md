@@ -118,7 +118,7 @@ No painel do servidor Jenkins, aguarde dois minutos até que o gatilho do projet
 
 ![image](https://user-images.githubusercontent.com/48589838/89986214-d92e0400-dc99-11ea-84cb-9ff3e830a1b8.png)
 
-In the Jenkins server Console Output page, check the build events and review the steps performed by each Jenkins plugin. You can also review the CodeDeploy deployment in detail, as shown in the following screenshot:
+Na página de saída do console do servidor Jenkins, verifique os eventos de compilação e revise as etapas executadas por cada plug-in do Jenkins. Você também pode revisar a implantação do CodeDeploy em detalhes, conforme mostrado na captura de tela a seguir:
 
 ![image](https://user-images.githubusercontent.com/48589838/89986227-dd5a2180-dc99-11ea-95a5-15938ac49df1.png)
 
