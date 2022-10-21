@@ -105,7 +105,7 @@ O arquivo buildspec.yml é uma coleção de comandos de compilação e configura
 
 A pasta de scripts contém os scripts que você gostaria de executar durante a execução do CodeDeploy LifecycleHooks em relação aos requisitos do aplicativo. Para obter mais informações, consulte Planejar uma revisão para AWS CodeDeploy.
 
-To test this solution, perform the following steps:
+Para testar esta solução, execute as seguintes etapas:
 
 Unzip the application files and send them to your GitHub repository, run the following git commands from the path where you placed your sample application:
 
