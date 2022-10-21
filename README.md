@@ -91,7 +91,7 @@ Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) e c
 
 ### Testando todo o pipeline de CI/CD
 
-To test the whole solution, put an application on your GitHub repository.
+Para testar toda a solução, coloque um aplicativo em seu repositório GitHub.
 
 The following screenshot shows an application tree containing the application source files, including text and binary files, executables, and packages:
 
