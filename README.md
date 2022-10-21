@@ -68,7 +68,6 @@ Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) e c
 ![image](https://user-images.githubusercontent.com/48589838/89985469-c23ae200-dc98-11ea-9243-9c8994fa4f28.png)
 
 
-
 ### Crie um projeto e configure o plugin CodeDeploy Jenkins
 
 ![image](https://user-images.githubusercontent.com/48589838/89985612-fadabb80-dc98-11ea-84cf-c2add128ffc0.png)
@@ -90,7 +89,7 @@ Use o usuário root para Cat o arquivo de log (/var/log/jenkins/jenkins.log) e c
 ![image](https://user-images.githubusercontent.com/48589838/89985875-4db47300-dc99-11ea-8288-fb7e30a5cb11.png)
 
 
-### Testing the whole CI/CD pipeline
+### Testando todo o pipeline de CI/CD
 
 To test the whole solution, put an application on your GitHub repository.
 
